@@ -3,19 +3,16 @@ Virtual Actor
 
 by Carlos Sanchez Witt.
 
-Description
-===========
+Presentation
+============
 
 Carlos Sanchez Witt.
 Master Semester Project, SINLAB/LDM, EPFL, 2013.
 
-Project Presentation
-
 The aim of this project is to create a tool that mimics the emotive performance of an actor through expressive voice synthesis.
 
-
 For more information read the wiki at:
-https://github.com/sinlab-semester-2013/VirtualActor/wiki
+https://github.com/carsanwitt/VirtualActor/wiki
 
 Contents
 --------
@@ -35,8 +32,8 @@ VirtualActorJavaProject (the main application) and all projects in marytts must 
 Verify links to dependencies.
 The main class to be executed is VirtualDirector inside the directorui package.
 
-Development Status
+Development Journal
 ------------------
 
 See Development Journal at:
-https://github.com/sinlab-semester-2013/VirtualActor/wiki/Development-Journal
+https://github.com/carsanwitt/VirtualActor/wiki/Development-Journal
